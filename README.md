@@ -112,10 +112,6 @@ with courage, clarity, and code.
 
 ---
 
----
-
----
-
 ## ⚠️ Disclaimer & Ethos
 
 This repository is intended for educational and self-development purposes only.
